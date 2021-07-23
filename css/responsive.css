@@ -1,0 +1,893 @@
+@media only screen and (max-width: 1500px) {
+	header nav{
+		max-width: 1200px;
+	}
+	.container {
+	    max-width: 1200px;
+	}
+	h1{
+		font-size: 62px;
+	}
+	h3{
+		font-size: 36px;
+	}
+	.section3 .text {
+	    margin-left: 60px;
+	}
+	.section3 .bg-element1 {
+	    left: 8%;
+	}
+	.section2 .bg-element7 {
+	    right: 50px;
+	}
+	.section1 .bg-element1 {
+	    left: 100px;
+	}
+	.section2 .bg-element5 {
+	    width: 100px;
+	}
+	.section2 .bg-element4 {
+	    left: 95px;
+	    top: 190px;
+	}
+	.section2 .bg-element6 {
+	    width: 140px;
+	}
+	.section2 .bg-element7 {
+	    right: 60px;
+	    width: 120px;
+	}
+	.section3 .bg-element2 {
+	    width: 100px;
+	}
+	.section3 .bg-element1 {
+	    width: 90px;
+	}
+	.per-order{
+		background-size: 100%;
+	}
+}
+
+@media only screen and (max-width: 1400px) {
+	.banner {
+	    min-height: 750px;
+	    padding: 220px 0 0;
+	}
+	.section1 p {
+	    font-size: 18px;
+	}
+	footer li {
+	    font-size: 18px;
+	}
+	footer h4 {
+	    font-size: 26px;
+	}
+	h3{
+		font-size: 28px;
+	}
+	.section3 .text h4 {
+	    font-size: 26px;
+	}
+	h5{
+		font-size: 20px;
+	}
+	.banner h4 {
+	    font-size: 36px;
+	}
+	h1 {
+	    font-size: 52px;
+	}	
+	.contanct-bg-2 {
+		left: 0%;
+	}
+	.menupage-tab .bg-element img {
+	    width: 120px;
+	}
+	.menupage-tab .bg-element1 {
+	    top: 18px;
+	}
+	.menupage-tab .bg-element5 {
+	    bottom: 5%;
+	}
+	.menupage-tab .bg-element3 {
+	    left: -10px;
+	}
+	.bg-element img {
+	    width: 100px;
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	.section3 .text {
+	    margin-left: 0px;
+	}
+	.catering-banner{
+		min-height: 438px;
+    	padding: 230px 0 0;
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+	header nav {
+	    max-width: 1080px;
+	}
+	.logo {
+	    width: 170px;
+	    height: 170px;
+	    padding: 18px;
+	}
+	.logo img{
+		width: 100%;
+	}
+	header nav{
+		height: 60px;
+	}
+	header ul li a {
+	    padding-bottom: 15px;
+	}
+	.banner .text img{
+		width: 60%;
+	}
+	.section1 .bg-element1 {
+	    top: 40px;
+	    left: 50px;
+	}
+	.section2 .bg-element7 {
+	    right: -20px;
+	}
+	.section3 .bg-element1 {
+	    left: 6%;
+	}
+	.home-about-img img{
+		max-width: 430px;
+	}
+	.home-about-img .img-pos img{
+		max-width: 300px;
+	}
+	.menupage-tab .bg-element img {
+		display: none;
+	}
+	.bg-element img {
+	    width: 80px;
+	}
+}	
+
+@media only screen and (max-width: 1140px) {
+	header nav,
+	.container {
+	    max-width: 1000px;
+	}
+	footer li span {
+	    min-width: 100px;
+	}
+	footer li {
+	    font-size: 16px;
+	}
+	footer h4 {
+	    font-size: 22px;
+	}
+	.footer-nav li a {
+	    font-size: 16px;
+	}
+	.home-about-img img {
+	    max-width: 360px;
+	}	
+	.img-pos.contact {
+		bottom: -108px !important;
+	}
+	.section1 .img-pos {
+	    bottom: -18px;
+	}
+
+	h5{
+		font-size: 18px;
+	}
+	.catering-section1 .nav .nav-link {
+	    font-size: 18px;
+	}
+	.catering-section1 .tab-content ul li{
+		font-size: 18px;
+	}
+	.catering-section2 h5{
+		font-size: 22px;
+	}
+	.catering-section2 ul li {
+    	font-size: 20px;
+    }
+    .per-order {
+	    background-size: 100% 360px;
+	}
+	.divider {
+	    max-height: 1170px;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	header nav,
+	.container{
+	    max-width: 900px;
+	}
+	.banner p {
+	    padding: 0 0px;
+	    font-size: 18px;
+	}
+	.section1 .para {
+	    padding: 20px 0 20px;
+	}	
+	.section2 .bg-element4 {
+	    left: 25px;
+	    top: 170px;
+	}
+	.btn {
+	    min-width: 220px;
+	    font-size: 18px;
+	}
+	.contactinfo-text a{
+		word-break: break-word;
+	}
+	.footer-col2 {
+	    padding-right: 20px;
+	}
+	.home-about-img .img-pos img {
+	    max-width: 230px;
+	}
+	.charges-card-block p {
+	    font-size: 20px;
+	    line-height: 38px;
+	    margin-top: 0;
+	}
+	.charges-card-block h2 {
+	    font-size: 45px;
+	}
+	.catering-section4 .charges-card-wrap h4, .catering-section5 .charges-card-wrap h4 {
+	    font-size: 35px;
+	}
+	.catering-section3 .title p {
+	    font-size: 22px;
+	    margin-bottom: 0;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.banner .text{
+		padding: 0 150px;
+	}
+	.footer-col2{
+		border-right: 0;
+	}
+	header nav, .container{
+		max-width: 880px;
+	}
+	.banner {
+	    min-height: 630px;
+	}
+	.section3 .text {
+	    max-width: 880px;
+    	margin: 0 auto;
+	}
+	.section3{
+		padding-top: 60px;
+	}
+	.section3 .contactinfo{
+		margin-bottom: 30px;
+	    display: flex;
+	    justify-content: space-between;
+	}
+	.section3 .bg-element2 {
+		left: inherit;
+	    right: 0px;
+	    top: 20px;
+	}
+	.section3 .contactinfo > div {
+	    padding: 0 6px;
+	}
+	.section3 iframe{
+		height: 350px;
+	}
+	.section3 .bg-element1 {
+	    left: 38%;
+	    bottom: inherit;
+    	top: 270px;
+	}
+	.copyright h6 {
+	    font-size: 16px;
+	}
+	.img-pos.contact {
+		bottom: -208px !important;
+	}
+	.catering-section1 h2{
+		font-size: 40px;
+	}
+	.catering-banner h1 {
+	    font-size: 50px;
+	}
+	.catering-section1 .nav,
+	.catering-section1 .tab-content{
+	    padding: 15px;
+	}
+	.catering-section1 .tab-content .tab-pane {
+	    padding: 20px 30px;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+
+	header nav{
+		display: none;
+	}
+	.header-mobile{
+		display: flex;
+	}
+	.section1 .bg-element2 {
+	    top: 0;
+	    width: 120px;
+	}
+	.section2 .bg-element4 {
+	    left: 25px;
+	    top: 150px;
+	}
+	.section3 .text {
+	    max-width: 90%;
+	}
+	.contactinfo .icon {
+	    line-height: 28px;
+	}
+	.container {
+	    max-width: 95%;
+	}
+	.section2 .bg-element6 {
+	    bottom: 100px;
+	}
+	.footer-logo img{
+		width: 100%;
+	}
+	.banner .text {
+	    padding: 0 100px;
+	}
+	.home-about-img img {
+	    max-width: 100%;
+	}
+	.home-about-img .img-pos {
+		display: none;
+	}
+	.story-box{
+		width: 527px;
+	}
+	.charges-card-block p {
+	    font-size: 16px;
+	    line-height: 32px;
+	}
+	.charges-card-block.charges-card-block2 {
+	    min-height: 322px;
+	}
+	header{
+		background: #0000006b;
+		top: 0;
+	}
+	.header-mobile-logo{
+		border: none;
+		background-color: transparent;
+	}
+	.header-mobile-logo img {
+	    width: 60px;
+	}
+	.toggle-menu {
+	    background: transparent;
+	    color: #E11A22;
+	    border: 1px solid #E11A22;
+	}
+	.header-mobile-logo {
+	    width: 60px;
+	    height: auto;
+	    padding: 0;
+	    margin-top: 0;
+	}
+	header {
+	    padding: 10px 0;
+	}
+	.contact-banner {
+	    min-height: auto;
+	    padding: 100px 0;
+	}
+	.header-mobile-menu{
+		position: absolute;
+		top: 80px;
+		left: 0;
+		right: 0;
+	}
+	.header-mobile-menu {
+		position: absolute;
+		top: 70px;
+		left: 0;
+		right: 0;
+	    margin-top: 0;
+	    background: #fff;
+	    padding: 30px 40px 10px;
+	    box-shadow: 0 0px 1px #000000a8;
+	}
+	.banner {
+	    min-height: auto;
+	    padding: 90px 0;
+	}
+	.abt-banner,
+	.catering-banner,
+	.menu-banner {
+	    min-height: auto;
+	    padding: 100px 0;
+	}
+
+
+}
+
+@media only screen and (max-width: 768px) {
+	.section1 .pr-5{
+		padding-right: 1rem!important;
+	}
+	.img-pos.contact {
+		display: none;
+	}
+	.col-xl-6.col-lg-6.col-md-6.col-sm-6.text-right.pr-5{
+		margin: 50px 0;
+	}
+	.order-1{
+		order: 1 !important;
+	}
+	.order-2{
+		order: 2 !important;
+	}
+	.menuitem-name img {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.footer-col {
+	    border-right: 0;
+	    margin-bottom: 30px;
+	}
+	.footer-top{
+		justify-content: center;
+	}
+	.footer-logo{
+		margin: 10px 0;
+	}
+	.section1 .row{
+		justify-content: center;
+	}
+	.section1 .text{
+		text-align: center;
+		margin-top: 15px;
+	}
+	.default-padding {
+	    padding: 70px 0;
+	}
+	.section1 {
+	    padding-bottom: 70px;
+	}
+	.banner .text {
+	    padding: 0 0px;
+	}
+	.heavy-title {
+		font-size: 40px;
+		line-height: 40px;
+	}
+	.menuitem h4 {
+	    font-size: 20px;
+	}
+	.menupage-tab .nav-link {
+	    font-size: 18px;
+	    padding: 11px 15px;
+	    margin-bottom: 18px;
+	}
+	.menu-section1 {
+	    padding: 60px 0;
+	}
+	.menuitem h6{
+		font-size: 14px;
+	}
+	.charges-card-block,
+	.charges-card-block-inner,
+	.charges-card-block.charges-card-block2,
+	.charges-card-block.charges-card-block2 .charges-card-block-inner{
+		min-height: auto;
+	}
+	.charges-card-block{
+		width: 100%;
+	}
+	.charges-card{
+		flex-wrap: wrap;
+	}
+	.charges-card-block-inner{
+		padding: 15px 25px;
+	}
+	.charges-card-block.charges-card-block1 .charges-card-block-inner {
+	    padding-right: 0;
+	}
+	.charges-card-block.charges-card-block3 .charges-card-block-inner{
+		padding-left: 0;
+	}
+	.charges-card-block{
+		margin-bottom: 25px !important;
+	}
+	.charges-card-block.charges-card-block2{
+		margin: auto 0;
+	}
+	.charges-card-block p{
+		margin-bottom: 0;
+	}
+	.charges-card-block p{
+		font-size: 18px;
+	}
+	.catering-section5{
+		padding-top: 0;
+	}
+	.divider{
+		display: none;
+	}
+	.catering-section1 .tab-content .tab-pane {
+	    padding: 15px 15px;
+	}
+	.catering-section1 .nav .nav-link {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+	
+	.divider-mobile {
+	    display: block;
+	    width: 100%;
+	    margin-left: -20px;
+	    margin: 25px -20px;
+	}
+	.divider-mobile img{
+		width: 110%;
+	}
+
+}
+
+@media only screen and (max-width: 667px) {
+	.section1 .bg-element1 {
+	    left: 100px;
+	}
+	.section1 .bg-element3 {
+	    bottom: 0px;
+	    width: 100px;
+	}
+	.section2 .bg-element4 {
+	    top: 161px;
+	    width: 100px;
+	}
+	.section2 .bg-element5 {
+	    top: 10px;
+	}
+	.section2 .bg-element6 {
+	    bottom: 30px;
+	}
+	.section3 .contactinfo {
+	    display: flex;
+	    justify-content: space-between;
+	    flex-wrap: wrap;
+	}
+	.section2 .bg-element7 {
+	    width: 100px;
+	}
+	.abt-default-padding {
+		padding: 40px 0;
+	}
+	.story-box {
+		width: 100%;
+		padding: 46px;
+	}
+	.abt-bg-2, .abt-bg-3{display: none;}
+	.btn {
+		min-width: 150px;
+		font-size: 16px;
+		height: 40px;
+		line-height: 36px;
+	}
+	.catering-section3 .contactinfo{
+		flex-wrap: wrap;
+	}
+	.catering-section3 .contactinfo .address, 
+	.catering-section3 .contactinfo .email, 
+	.catering-section3 .contactinfo .phone {
+	    width: 55%;
+	    margin-bottom: 0;
+	}
+	.catering-section3 .contactinfo .email {
+	    margin-right: 0;
+	}
+	.catering-section3 h4{
+		font-size: 15px;
+	}
+	.catering-section3 .title p,
+	.catering-section3 .contactinfo a {
+	    font-size: 12px;
+	}
+	.catering-section3 .contactinfo h6{
+		font-size: 12px;
+	    margin-bottom: 0;
+	}
+	.contactinfo .icon{
+		width: 33px;
+		height: 33px;
+	}
+	.per-order {
+	    background-size: 100% 300px;
+	}
+	.contactinfo {
+	    margin-top: 15px;
+	}
+	.catering-section3 .contactinfo p{
+		margin-bottom: 0;
+	}
+	.catering-section3 .contactinfo .email{
+		margin-bottom: 10px;
+	}
+	.per-order {
+		background: url(../images/personalize-frame-mobile.png) no-repeat;
+	    background-size: 444px 280px;
+	    background-position: center;
+	}
+	.catering-section3 {
+	    padding: 0px 0;
+	}
+	.catering-section2 ul li {
+	    font-size: 15px;
+	    margin-bottom: 10px;
+	}
+	.catering-section2 h5 {
+	    font-size: 15px;
+	}
+	.catering-section2 ul{
+		margin-top: 15px;
+	}
+	.catering-section2 .feasts {
+	    margin: 18px 0 18px;
+	}
+	.bg-element img{
+		display: none;
+	}
+	.feasts-wrap h3{
+		font-size: 20px;
+	}
+	.catering-section4 h3{
+		font-size: 20px;
+	}
+	.catering-section4 .section-title img:nth-child(1){
+		width: 20px;
+	}
+	.charges-card-block h2 {
+	    font-size: 40px;
+	}
+	.feasts-wrap img{
+		width: 84px;
+	}
+	.catering-section2 h5:before {
+	    width: 7px;
+	    height: 7px;
+	    top: 6px;
+	    left: 4px;
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.section1{
+		padding-top: 10px;
+	}
+	.section2 {
+		padding: 40px 0;
+	}
+	.footer-logo {
+	    max-width: 106px;
+	    margin: 10px auto;
+	}
+	.section2 h5{
+		font-size: 20px;
+	}
+	.banner h4 {
+	    font-size: 22px;
+	}
+	h1{
+		font-size: 32px;
+	}
+	.menuitem h5{
+		font-size: 16px;
+	}
+	.menuitem h6,
+	.menuitem p{
+		font-size: 10px;
+		line-height: 14px;
+	}
+	.menuitem-img-wrap:before {
+	    width: 85px;
+	    height: 85px;
+	    top: -7px;
+	    left: -7px;
+	}
+	.menuitem-img {
+	    width: 72px;
+	    height: 72px;
+	}
+	.menuitem-text {
+    	margin-left: 15px;
+    }
+    .menuitem {
+	    margin-bottom: 20px;
+	}
+	.menu-section-heading2 {
+	    margin-bottom: 25px;
+	}
+	.menuitem h4 {
+	    font-size: 14px;
+	}
+	.menupage-tab .nav {
+	    grid-column-gap: 6px;
+	}
+	.menu-banner .text img{
+		width: 60%;
+	}
+	.catering-section1 {
+	    padding: 30px 0 40px;
+	}
+	.catering-section1 .mt-5{
+		margin-top: 15px !important;
+	}
+	.catering-section1 h2 {
+	    font-size: 25px;
+	}
+	.catering-section1 .nav .nav-link {
+	    font-size: 15px;
+	    padding: 2px 0;
+	}
+	.catering-section1 .nav{
+		margin-bottom: 25px;
+	}
+	.catering-section1 .tab-content .tab-pane{
+		min-height: auto;
+	}
+	.catering-section2{
+		padding: 40px 0;
+	}
+	.feasts-wrap{
+		padding: 0;
+	}
+	.per-order{
+		min-height: 320px;
+	}
+	.catering-section4 {
+	    padding: 0px 0 20px;
+	}
+	.charges-card-block.charges-card-block3 .charges-card-block-inner{
+		padding: 15px 25px;
+	}
+	.catering-section2 h5:before {
+	    width: 6px;
+	    height: 6px;
+	    top: 7px;
+	    left: 9px;
+	}
+	.catering-section1 .tab-content ul li{
+		font-size: 15px;
+		margin-bottom: 0;
+	}
+	.catering-banner {
+    	background-image: url(../images/catering-banner-mobile.png);
+	}
+	.per-order {
+	    background-size: 420px 280px;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	.section1 .bg-element1 {
+	    left: 0;
+	    top: 30px;
+	    width: 80px;
+	}
+	.section1 .bg-element2,
+	.section2 .bg-element4,
+	.section2 .bg-element5,
+	.section2 .bg-element6,
+	.section3 .bg-element2{
+		width: 70px;
+	}
+	.section3 .bg-element1 {
+	    left: 46%;
+	    top: 140px;
+	    width: 70px;
+	}
+	.menuitem-img-wrap:before {
+	    width: 71px;
+	    height: 71px;
+	    top: -5px;
+	    left: -5px;
+	}
+	.menuitem-img {
+	    width: 62px;
+	    height: 62px;
+	}
+	.menuitem h5 {
+	    font-size: 14px;
+	}
+	.menupage-tab .nav-link{
+	    font-size: 13px;
+	    padding: 11px 5px;
+		border-width: 1px;
+		margin-bottom: 10px;
+	}
+	.menupage-tab .nav-item{
+		width: 49%;
+		text-align: center;
+	}
+	.menu-section-heading2 img{
+		width: 70px;
+	}
+	.menupage-tab .nav-link.active{
+		border-width: 1px;
+	}
+	.menu-banner{
+		background-image: url(../images/catering-banner-mobile.png);
+		min-height: auto;
+    	padding: 100px 0;
+	}
+	.header-mobile-logo {
+	    width: 110px;
+	    height: 110px;
+	}
+	.per-order {
+	    background-size: 350px 280px;
+	}
+	.catering-banner h1 {
+	    font-size: 40px;
+	}
+	.catering-banner h4{
+		font-size: 15px;
+	}
+	.catering-banner img{
+		width: 175px;
+	}
+	.header-mobile-logo {
+	    width: auto;
+	    height: auto;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.header-mobile-logo {
+	    width: 120px;
+	    height: 120px;
+	    padding: 10px;
+	}
+	.banner {
+		min-height: 600px;
+	    padding: 180px 0 0;
+	}
+	.per-order {
+	    background-size: 320px 280px;
+	}
+	.header-mobile-logo {
+	    width: auto;
+	    height: auto;
+	    padding: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
